@@ -1,2 +1,3 @@
 # hello-world
-Just a hello-world repository
+Hi!
+I'm supposed to write something here. 
